@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dzhaved
+- 🌱 I’m currently learning Unity/C#
+- 📫 How to reach me dzhaved.basek@mail.ru
